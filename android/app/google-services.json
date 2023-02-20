@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "581351874366",
+    "project_id": "forest-58530",
+    "storage_bucket": "forest-58530.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581351874366:android:87538fb80d6d6a3924966f",
+        "android_client_info": {
+          "package_name": "com.example.animalforest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581351874366-acicl8cb5ft8m0oipt7mt49bfdki9ai9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEwtf3akjhmqYc8ZYO356OrLMDs4NtuiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581351874366-acicl8cb5ft8m0oipt7mt49bfdki9ai9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
